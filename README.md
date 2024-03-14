@@ -12,4 +12,4 @@ compile with
 g++ daemon_shell.cpp -O3 -march=native -fPIC -g -s -static -o ./init
 ```
 
-output binary will be names init :)
+output binary will be named init :)
